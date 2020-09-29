@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Sp.DataConnector/bin/Debug/netcoreapp2.1
+/Sp.DataConnector/obj
+/Sp.DataConnector.Logic/bin/Debug/netstandard2.0
+/Sp.DataConnector.Logic/obj
+/packages
